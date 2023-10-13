@@ -1,3 +1,10 @@
-body{
-    background:blue;
+body {
+	background: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.myDiv {
+	background: #bdbdbd; /*Gray Backgorund to make the div visible */
+	width: 400px; /*This should be the max-widh of your website*/
 }

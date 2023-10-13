@@ -1,4 +1,27 @@
 /* your code here */
+.wrapper {
+	width: 400px;
+	margin: auto;
+}
+
+header {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.secondWrapper {
+	display: flex;
+}
+.secondWrapper nav {
+	float: left;
+	width: 20%;
+	margin-left: 10px;
+}
+
+.secondWrapper section {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 80%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
